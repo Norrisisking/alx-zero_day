@@ -1,2 +1,2 @@
-my first updated READ.md
+my first updated README.md
 
